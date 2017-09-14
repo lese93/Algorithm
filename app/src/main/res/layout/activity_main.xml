@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.the.algorithm.MainActivity">
+
+    <Button
+        android:id="@+id/Btn1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="3의 배수와 5의 배수의 총합 구하기" />
+
+    <Button
+        android:id="@+id/Btn2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="별찍기" />
+
+    <Button
+        android:id="@+id/Btn3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="구구단 2~9단 출력" />
+
+    <Button
+        android:id="@+id/Btn4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="좌표 선택" />
+
+    <Button
+        android:id="@+id/Btn5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="숫자 야구" />
+    <Button
+        android:id="@+id/Btn6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="로또 시뮬레이터" />
+
+</LinearLayout>
